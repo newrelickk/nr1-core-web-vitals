@@ -1,0 +1,19 @@
+{
+  "tagline": "Core Web Vitals Viz",
+  "details": "Visualization for Core Web Vitals(CWV) for specific PageUrl. Browser Agent shall be integrated to your Web Application.",
+  "categoryTerms": [],
+  "keywords": ["Browser", "CWV", "Core Web Vitals"],
+  "repository": "",
+  "whatsNew": "",
+  "support": {
+    "email": {
+      "address": ""
+    },
+    "issues": {
+      "url": ""
+    },
+    "community": {
+      "url": ""
+    }
+  }
+}

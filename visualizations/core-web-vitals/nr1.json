@@ -1,0 +1,26 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "core-web-vitals",
+    "displayName": "CoreWebVitals",
+    "description": "",
+    "configuration": [
+        {
+            "name": "accountId",
+            "title": "Account ID",
+            "description": "Account ID to be associated with the query",
+            "type": "account-id"
+        },
+        {
+            "name": "targetUrl",
+            "title": "PageUrl",
+            "description": "PageUrl to show CWV like 'https://newrelic.com/'",
+            "type": "string"
+        },
+        {
+            "name": "useLike",
+            "title": "Use LIKE clause",
+            "description": "True if like clause would like to be used for url matching",
+            "type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+.EmptyState,
+.ErrorState {
+    text-align: center;
+
+    &-cardBody {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+.ErrorState-headingText {
+    color: darkgrey;
+}
