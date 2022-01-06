@@ -3,14 +3,14 @@
   "details": "Visualization for Core Web Vitals(CWV) for specific PageUrl. Browser Agent shall be integrated to your Web Application.",
   "categoryTerms": [],
   "keywords": ["Browser", "CWV", "Core Web Vitals"],
-  "repository": "",
+  "repository": "https://github.com/newrelickk/nr1-core-web-vitals",
   "whatsNew": "",
   "support": {
     "email": {
       "address": ""
     },
     "issues": {
-      "url": ""
+      "url": "https://github.com/newrelickk/nr1-core-web-vitals/issues"
     },
     "community": {
       "url": ""
